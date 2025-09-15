@@ -1,6 +1,10 @@
 # TheDevConf 2025 - SP
 ## Palestra: Evolução Integrada: Plataforma de Dados e Estratégias de Testes
 > Trilha de Engenharia de dados
+
+Apresentado por: [@Vanessa Anjos](https://www.linkedin.com/in/vanessa-p-anjos/)  e [@Samuel Locatelli](https://www.linkedin.com/in/sam-locatelli/)
+
+
 ### Material apresentado
 - [ppt]()
 ### Nossas Referências
