@@ -1,4 +1,5 @@
 # TheDevConf 2025 - SP
+![logo_tdc](brading-tdc-sao-paulo.png)
 ## Palestra: Evolução Integrada: Plataforma de Dados e Estratégias de Testes
 > Trilha de Engenharia de dados
 
