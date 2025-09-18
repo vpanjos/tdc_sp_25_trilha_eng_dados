@@ -7,7 +7,7 @@ Apresentado por: [@Vanessa Anjos](https://www.linkedin.com/in/vanessa-p-anjos/) 
 
 
 ### Material apresentado
-- [ppt]()
+- [Slide](https://github.com/vpanjos/tdc_sp_25_trilha_eng_dados/blob/502b6701f4309b9ca8903b9a6021245d3907723a/%5BTDC-25%5D%20Plataforma%20e%20testes%20de%20Dados.pptx-1.pdf)
 ### Nossas Referências
 - [Testing data pipelines](https://www.thoughtworks.com/en-br/insights/blog/testing/testing-data-pipelines)
 - [Assertions com Dataform](https://cloud.google.com/dataform/docs/assertions?hl=pt-br)
